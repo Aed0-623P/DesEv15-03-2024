@@ -28,4 +28,4 @@ class Preguntas(Alternativa):
     def mostrar_pregunta(
         self,
     ):
-        print("toda la wea de arriba")
+        print()
